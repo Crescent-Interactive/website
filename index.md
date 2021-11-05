@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Crescent Interactive
 
-You can use the [editor on GitHub](https://github.com/Crescent-Interactive/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Crescent Games (originally Interactive Studios) was the first division of Crescent Game Studios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Specialised in producing mass-market family games on all console formats. This largely involved using a lot of high profile brands from film, TV and toys.
 
 ### Markdown
 
